@@ -1,11 +1,11 @@
 ### Welcome to my github page
 
-My name is Nir Tatuani. I'm a QA Engineer and also a junior developer.
+My name is Nir Tatuani. I'm a QA Automation engineer and also a junior developer.
 I enjoy a challenge and always looking for the next opportunity to expand and learn new skills.
 I am motivated person, looking for my next job.
 
 ### Education
-2014 – 2017 BSc in Information Technology, The Academic College of Tel Aviv-Yaffo.
+2014 – 2017 BSc in Information System, The Academic College of Tel Aviv-Yaffo.
 
 ### Skills
 
@@ -31,9 +31,10 @@ I am motivated person, looking for my next job.
 * R
 
 **QA Skills**
-* Writing automation scripts in Python (including selenium and beautifulsoup), Shell.
+* Writing automation scripts in Python and Java (with selenium & appium), Shell.
 * Solid understanding of Android testing environment.
 * Providing STD, STP and STR doctumentions.
+* Experienced and familier with Jenkins CI.
 
 ```
 
